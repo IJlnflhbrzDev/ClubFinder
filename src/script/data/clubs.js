@@ -41,5 +41,12 @@
         fanArt: "https://www.thesportsdb.com/images/media/team/fanart/yyuypw1420393451.jpg",
         description: "Everton Football Club /ˈɛvərtən/ are an English professional football club based in Liverpool, and currently playing in the Premier League. The club have competed in the top division for a record 110 seasons (missing only four seasons, in the second tier) and have won the League Championship nine times.\\r\\n\\r\\nFormed in 1878, Everton were founding members of The Football League in 1888 and won their first league championship two seasons later. Following four league titles and two FA Cup wins, Everton experienced a lull in the immediate post World War Two period until a revival in the 1960s which saw the club win two league championships and an FA Cup. The mid-1980s represented their most recent period of sustained success, with two League Championship successes, an FA Cup, and the 1985 European Cup Winners' Cup. The club's most recent major trophy was the 1995 FA Cup. The club's supporters are known as Evertonians.\\r\\n\\r\\nEverton have a rivalry with neighbours Liverpool and the two sides contest the Merseyside derby. The club have been based at Goodison Park since 1892, after moving from Anfield after a row over its rent.\\r\\n\\r\\nThe club's home colours are royal blue shirts and white shorts. Everton player Dixie Dean scored a record 60 league goals in the 1927–28 season."
 
+    },
+    {
+        name: "Persib",
+        stadium: "Gelora Bung Karno",
+        fanArt: "https://cdn0-production-images-kly.akamaized.net/lmIBuLNtW3Pl1JYW6P7XJQUco1E=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3435527/original/073788800_1618993706-Persib_Bandung_-_3_Ban_Serep_Persib_Bandung_Lawan_Persija_Jakarta.jpg",
+        description: "Persib Bandung adalah klub sepak bola Indonesia yang berdiri pada 14 Maret 1933, berbasis di Bandung, Jawa Barat. Persib saat ini bermain di Liga 1 Indonesia. Julukan mereka adalah Maung Bandung."
+
     }
   ];
